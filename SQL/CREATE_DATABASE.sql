@@ -1,6 +1,5 @@
 CREATE TABLE Motorcycle (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    makeId INTEGER,
     model TEXT NOT NULL,
     year INTEGER NOT NULL,
     type TEXT,
